@@ -1,0 +1,4 @@
+	Target eccentricity	Chaser Eccentricity
+Test 1	e=0			e=0.001
+Test 2	e=0.001			e=0.001
+Test 3	e=0.1			e=0.1
