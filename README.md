@@ -13,7 +13,7 @@ This work is currently under active development.
 The project follows the given methodology:
 - Relative motion computation through target and chaser absolute Keplerian motion propagation
 - Relative motion computation through target and chaser absolute two-body-problem motion propagation, including J2 and drag perturbations
-- Relative motion propagation using Clohessy-Wiltishire relative dynamics
+- Relative motion propagation using Clohessy-Wiltshire relative dynamics
 - Relative motion propagation using Tschauner-Hempel relative dynamics
 - Relative motion propagation using linear time-varying high-fidelity model described in 2015 Okasha et. al. "Modeling, Dynamics and Control of Spacecraft Relative Motion in a Perturbed Keplerian Orbit"
 
