@@ -33,7 +33,7 @@ Planned next steps include:
 - Validation of TH implementation
 - Addition of high-fidelity LTV model
 
-## Preliminaty Outputs
+## Preliminary Outputs
 
 Representative intermediate outputs include:
 - Relative motion in target LVLH frame
